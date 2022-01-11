@@ -1,2 +1,2 @@
 # WaltonRX7MiniRecoveryRom
-The recovery rom ported to Walton RX7 Mini
+The ported recovery rom  For Walton RX7 Mini,You can Download it from here,
